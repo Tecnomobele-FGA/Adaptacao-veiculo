@@ -23,7 +23,9 @@ Na foto abaixo os diversos subsistemas são marcados: (destacar na foto do subsi
 1. arcondicionado
 2. servo freio
 3. motor diesel4. direção hidraulica
-![](fotos/Van-capo-aberto-detalhes.jpg)
+![](fotos/Van-capo-aberto-detalhes.png)
+
+
 
 Fazer uma descrição dos subsistemas com seus diversos componentes que serão retirados
 
