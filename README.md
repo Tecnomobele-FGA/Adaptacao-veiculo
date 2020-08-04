@@ -33,16 +33,16 @@ Na foto abaixo os diversos componentes são marcados:
 
 ![](fotos/Van-capo-aberto-detalhes.png)
 
-1. Reservatório
-2. Reservatório
-3. a
-4. b
-5. c
-6. d
-7. e
-8. f
-9. Radiador
-10. x
+1. Reservatório da direção hidráulica
+2. Reservatório do fluido de arrefecimento
+3. 
+4. Reservatório do fluido de freio
+5. Caixa do filtro de ar
+6. Duto de admissão
+7. Filtro de óleo diesel
+8. Filtro secador do ar condicinado
+9. Evaporador do ar condiciinoado
+10. Radiador de óleo
 
 # 1. Sistemas retirados
 
