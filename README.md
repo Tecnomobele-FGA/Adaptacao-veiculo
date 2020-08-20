@@ -35,7 +35,7 @@ Na foto abaixo os diversos componentes são marcados:
 
 1. Reservatório da direção hidráulica
 2. Reservatório do fluido de arrefecimento
-3. 
+3. Protetor da mangueira de ar quente
 4. Reservatório do fluido de freio
 5. Caixa do filtro de ar
 6. Duto de admissão
