@@ -4,14 +4,14 @@ Os detalhes da retirada do motor a combustão e demais componenetes tradicionais
 
 Ficha técnica da VAN
 
-| item | Desicrição     | Valor |Unidade|
-|:----:|:------------   |:-----:|:-----:|
-| 1    | Comprimento    | 5,599 | m     |
-| 2    | Altura         | 2,450 | m     | 
-| 3    | Largura        | 1,998 | m     |
-| 4    | Peso           | 1.980 | kg    |
-| 5    | Carga          | 1.520 | kg    |
-| 6    | potência motor |  127  | CV    |
+| item |  Desicrição  |    Valor   |Unidade|
+|:----:|:-------------|:----------:|:-----:|
+| 1    | Comprimento  |    5,599   |   m   |
+| 2    | Altura       |    2,450   |   m   | 
+| 3    | Largura      |    1,998   |   m   |
+| 4    | Peso         |    1,980   |   kg  |
+| 4    | Carga        |    1,520   |   kg  |
+| 5    | potência motor |  127     |   CV |
 |
 |
 |
@@ -33,16 +33,16 @@ Na foto abaixo os diversos componentes são marcados:
 
 ![](fotos/Van-capo-aberto-detalhes.png)
 
-1. Reservatório
-2. Reservatório
-3. a
-4. b
-5. c
-6. d
-7. e
-8. f
-9. Radiador
-10. x
+1. Reservatório da direção hidráulica
+2. Reservatório do fluido de arrefecimento
+3. Protetor da mangueira de ar quente
+4. Reservatório do fluido de freio
+5. Caixa do filtro de ar
+6. Duto de admissão
+7. Filtro de óleo diesel
+8. Filtro secador do ar condicinado
+9. Evaporador do ar condiciinoado
+10. Radiador de óleo
 
 # 1. Sistemas retirados
 
