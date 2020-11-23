@@ -4,13 +4,14 @@ Os detalhes da retirada do motor a combustão e demais componenetes tradicionais
 
 Ficha técnica da VAN
 
-| item | Desicrição  | Valor  |  Unidade |
-|:----:|:------------|:------:|:-----:|
-| 1    | Comprimento  |       | m     |
-| 2    | Altura       |       | m     | 
-| 3    | Largura      |       | m     |
-| 4    | Peso         |       | kg    |
-| 5    | potência motor |     | CV/kW |
+| item | Desicrição     | Valor |Unidade|
+|:----:|:------------   |:-----:|:-----:|
+| 1    | Comprimento    | 5,599 | m     |
+| 2    | Altura         | 2,450 | m     | 
+| 3    | Largura        | 1,998 | m     |
+| 4    | Peso           | 1.980 | kg    |
+| 5    | Carga          | 1.520 | kg    |
+| 6    | potência motor |  127  | CV    |
 |
 |
 |
@@ -20,11 +21,16 @@ Subsistema do veículo
 
 1. arcondicionado
 2. servo freio
-3. motor diesel4. direção hidraulica
-![](fotos/VAn-original.jpeg)![](fotos/Van-capo-aberto2.jpeg)
+3. motor diesel
+4. direção hidraulica
+
+![](fotos/VAn-original.jpeg)
+
+![](fotos/Van-capo-aberto2.jpeg)
 
 Na foto abaixo os diversos componentes são marcados: 
-
+
+
 ![](fotos/Van-capo-aberto-detalhes.png)
 
 1. Reservatório
@@ -73,8 +79,12 @@ Fazer uma descrição dos subsistemas com seus diversos componentes que serão r
 ![](fotos/Frente-sem-motor.jpeg)
 
 ![](fotos/compressor-ar-condicionado.jpeg)
-![](fotos/motor-na-giraffa1.jpeg)![](fotos/motor-na-giraffa2.jpeg)
-![](fotos/parte-superior-cambio.jpeg)
+
+![](fotos/motor-na-giraffa1.jpeg)
+
+![](fotos/motor-na-giraffa2.jpeg)
+
+![](fotos/parte-superior-cambio.jpeg)
 
 # 2. Sistemas modificados
 
