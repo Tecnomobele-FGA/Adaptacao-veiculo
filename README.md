@@ -10,12 +10,8 @@ Ficha técnica da VAN
 | 2    | Altura       |    2,450   |   m   | 
 | 3    | Largura      |    1,998   |   m   |
 | 4    | Peso         |    1,980   |   kg  |
-| 4    | Carga        |    1,520   |   kg  |
-| 5    | potência motor |  127     |   CV |
-|
-|
-|
-|
+| 5    | Carga        |    1,520   |   kg  |
+| 6    | potência motor |  127     |   CV  |
 
 Subsistema do veículo
 
@@ -104,6 +100,8 @@ Descrição dos subsistemas que serão modificados, apontando o que será mudado
 
 ## 2.2. Subsistema de freio
 
+![](fotos/Bombas_freio_direcao.jpeg)
+
 | item | Componentes | descrição e localização   | peso |
 |:----:|:------------|:-------------------------:|-----:|
 | 1    | bomba       |        |       |
@@ -111,8 +109,23 @@ Descrição dos subsistemas que serão modificados, apontando o que será mudado
 | 3    | mangeiras   |        |       |
 | 4    | reservatório óleo de freio
 
+![](fotos/Bomba_freio_1.jpeg)
+
+![](fotos/Bomba_freio_2.jpeg)
+
+
+
+### 2.2.1 Bancada de ensaio de freio 
+Para testar sistema hidraulico do freio será montada uma bancada de  ensaios com a bomba conforme a figura a seguir.
+
+
+![](figuras/bancada_ensaio_bomba.jpeg)
+
 
 ## 2.3. Subsistema de direção hidraulica
+
+![](fotos/Bomba_direcao_hidraulica_montagem.jpeg)
+
 
 | item | Componentes | descrição e localização   | peso |
 |:----:|:------------|:-------------------------:|-----:|
@@ -120,4 +133,9 @@ Descrição dos subsistemas que serão modificados, apontando o que será mudado
 | 2    |             |       | 
 | 3    | mangeiras   |        |       |
 | 4    | reservatório óleo de freio
+
+Na bomba hidraulica tem uma notação da pressão nominal que é de 100 bar.
+
+
+![](fotos/Bomba_direcao_hidraulica.jpeg)
 
